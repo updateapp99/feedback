@@ -6,7 +6,7 @@
 
 ### :fire::fire::fire:VPN Proxy Speed - Super VPN:star::star::star::star::star:
 
-**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/supervpn/supervpn_v2.6.2.apk)**
+**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/supervpn/supervpn_v2.6.4.apk)**
 
 **<a href="https://play.google.com/store/apps/details?id=com.supervpn.vpn.free.proxy"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"></a>**
 - - - -
