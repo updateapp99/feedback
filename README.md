@@ -15,7 +15,7 @@
 
 ### :fire::fire::fire:VPN Fast - Secure VPN Proxy:star::star::star::star::star:
 
-**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/vpnfast/vpnfast_v2.2.5.8.apk)**
+**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/vpnfast/vpnfast_v2.2.6.0.apk)**
 
 **<a href="https://play.google.com/store/apps/details?id=con.hotspot.vpn.free.master"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"></a>**
 - - - -
