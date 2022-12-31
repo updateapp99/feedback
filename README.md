@@ -42,7 +42,7 @@
 
 ### :fire:VPN - Super Proxy Master::star::star::star::star:
 
-**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/vpnsuper/vpnsuper_v1.8.7.apk)**
+**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/vpnsuper/vpnsuper_v1.8.8.apk)**
 
 **<a href="https://play.google.com/store/apps/details?id=com.optimizer.booster.fast.speedy.phone.smooth"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"></a>**
 - - - -
