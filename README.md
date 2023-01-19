@@ -33,7 +33,7 @@
 
 ### :fire::fire::fire::fire::fire:Private VPN - Proxy Browser::star::star::star::star:
 
-**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/privatevpn/privatevpn_v1.8.2.apk)**
+**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/privatevpn/privatevpn_v1.8.4.apk)**
 
 **<a href="https://play.google.com/store/apps/details?id=com.privates.secure.fast.browser"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"></a>**
 - - - -
