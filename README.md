@@ -24,7 +24,7 @@
 
 ### :fire::fire:Super VPN Proxy - Proxy Master:star::star::star::star::star:
 
-**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/proxymaster/proxymaster_v2.5.3.apk)**
+**:arrow_double_down: [latest_version.apk](https://github.com/updateapp99/feedback/raw/main/apk/proxymaster/proxymaster_v2.5.4.apk)**
 
 **<a href="https://play.google.com/store/apps/details?id=com.free.vpn.proxy.master.app"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"></a>**
 - - - -
